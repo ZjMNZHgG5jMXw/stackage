@@ -62,6 +62,8 @@ apt-get install -y \
     libudev-dev \
     libfftw3-dev \
     libxau-dev \
+    node \
+    npm \
     libpcap0.8-dev
 
 mkdir /tmp/nettle-build
