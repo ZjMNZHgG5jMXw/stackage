@@ -62,7 +62,7 @@ apt-get install -y \
     libudev-dev \
     libfftw3-dev \
     libxau-dev \
-    node \
+    nodejs \
     npm \
     libpcap0.8-dev
 
